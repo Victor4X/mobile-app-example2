@@ -8,4 +8,5 @@ API_KEY="6695860255dc3d466ab6598ff64580f4"
 
 ## Run
 
-Build and run the docker-compose file
+* Run npm i
+* Build and run the docker-compose file
