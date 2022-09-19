@@ -2,6 +2,7 @@ version: '2.4'
 
 services:
   react_native_app:
+    restart: 'no'
     build:
       context: .
       args:
